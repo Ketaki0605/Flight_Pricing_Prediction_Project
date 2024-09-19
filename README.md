@@ -64,4 +64,10 @@ The goal of the flight price prediction project is to develop a model that can a
 
 **Dashboard Snap's**
 Project Link https://app.powerbi.com/view?r=eyJrIjoiYTRmNDQxY2UtM2Q4Yy00MjdmLWExYzgtZGE0OTlkZTMxMzg1IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+
 **Home Page**
+
+#Output
+
+![Home](https://github.com/user-attachments/assets/b7d10e64-1c67-4ff5-beac-338b842549d8)
+
