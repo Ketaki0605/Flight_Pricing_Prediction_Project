@@ -67,7 +67,21 @@ Project Link https://app.powerbi.com/view?r=eyJrIjoiYTRmNDQxY2UtM2Q4Yy00MjdmLWEx
 
 **Home Page**
 
-#Output
-
 ![Home](https://github.com/user-attachments/assets/b7d10e64-1c67-4ff5-beac-338b842549d8)
+
+**Airline Analysis**
+
+![Airline Analysis](https://github.com/user-attachments/assets/046abd78-8362-49c2-8333-a193e90be5cd)
+
+**Seat Analysis**
+
+![Seat Analysis](https://github.com/user-attachments/assets/e435fd75-319e-4f12-9000-9e36751deae5)
+
+**Route Analysis**
+
+![Route Analysis](https://github.com/user-attachments/assets/6e2501e1-f3ee-428a-b90e-e727f73be24c)
+
+**Fare Prediction Analysis**
+
+![Fare Prediction Analysis](https://github.com/user-attachments/assets/ebde3432-3c0d-4882-83fa-9156bf471866)
 
